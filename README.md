@@ -1,9 +1,6 @@
-  <h1 align="center">Rick and Morty App</h1>
+  <h1 align="center">App Tempo</h1>
 
 <!-- Getting Started -->
-
-### In Updating - Atualizando App!!!
-
 ## INICIANDO O PROJETO
 
 Para instalar o projeto em sua maquina siga os passos abaixo.
